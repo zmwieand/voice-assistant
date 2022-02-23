@@ -6,7 +6,7 @@ from voice import Voice
 
 
 # TODO: Make this a settings thing
-HOTWORD = 'Gideon'
+HOTWORD = 'Edna'
 
 
 def extract_cmd(text):
