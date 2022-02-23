@@ -1,0 +1,7 @@
+[packages]
+wakeonlan = {version = "*"}
+SpeechRecognition = {version = "*"}
+PyAudio = {version = "*"}
+
+[requires]
+python_version = "3.9"
